@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Utsav Sapkota
-- 👀 I’m interested in Watching Anime/ Programming
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on (notNow)
-- 📫 How to reach me saputsav@gmail.com
+- 👋 Hey, I’m Utsav Sapkota
+- 👀 I’m interested in Programming, Surfing through some technologies, watching anime and many more
+- 🧐 I’m currently learning some Frontend and Backend tools.
+- 🦾 We can work in collaboration as well if needed.
+- 😁 How to reach me? saputsav@gmail.com
 
 <!---
 YellowBlueNaruto/YellowBlueNaruto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
